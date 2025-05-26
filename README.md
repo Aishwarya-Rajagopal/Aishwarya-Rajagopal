@@ -18,6 +18,7 @@ basic machine learning (Hypothesis Testing).
 - - **Databases**: MySQL, MongoDB (along with Mongo Compass)
 - - **Data Engineering**: Power Query, Power BI Data Modelling
   - **Machine Language** : Linear Regression,Logistic Regression, Clustering, Classification & Time-Series Models(using Prophet)
+            - Statistics ,Hypothesis Testing: Z & T test, ANOVA, Chi-Square test
 - **Visualization**: Power BI, Tableau, Excel (PivotTables, Charts)
 
 
